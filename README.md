@@ -3,3 +3,5 @@
 </div>
 
 ![Seamus's GitHub stats](https://github-readme-stats.vercel.app/api?username=seamusgould&show_icons=true)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=seamusgould.visitor-badge)
