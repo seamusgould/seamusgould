@@ -10,7 +10,7 @@ I am interested in everything related to mathematics and technology, from making
 
 
 ### Facts about me  
-- ⚡ Fun fact: I was just three classes away from majoring in mathematics and computer science!  
+- ⚡ Fun fact: I was just three classes away from triple majoring in economics, mathematics and computer science!  
   
 
 - ♟️I am a massive chess geek as well 🤓  
