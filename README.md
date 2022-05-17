@@ -5,3 +5,5 @@
 ![Seamus's GitHub stats](https://github-readme-stats.vercel.app/api?username=seamusgould&show_icons=true)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=seamusgould.visitor-badge)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seamusgould&layout=compact)](https://github.com/seamusgould/github-readme-stats)
