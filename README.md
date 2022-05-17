@@ -84,16 +84,6 @@ I am interested in everything related to mathematics and technology, from making
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=seamusgould&&style=flat-square" align="center" />
 </div>  
@@ -103,6 +93,3 @@ I am interested in everything related to mathematics and technology, from making
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
