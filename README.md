@@ -13,7 +13,7 @@ I am interested in everything related to mathematics and technology, from making
 - ⚡ Fun fact: I was just a few classes away from triple majoring in economics, mathematics and computer science!  
   
 
-- ♟️I am a massive chess geek as well 🤓  
+- ♟️I am a massive, self taught, chess geek as well 🤓. 
   
 
 <br/>  
