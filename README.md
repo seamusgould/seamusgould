@@ -11,11 +11,9 @@ I am interested in everything related to mathematics and technology, from making
 
 ## Facts about me  
 - ⚡ Fun fact: I was just a few classes away from triple majoring in economics, mathematics and computer science!  
+- 🎵 I am a clarinet player, though a bit out of practice 🎼 😃.
+- ♟️ I am a massive, self taught, chess geek as well 🤓, winning junior tournaments and competing in opens. 
   
-
-- ♟️I am a massive, self taught, chess geek as well 🤓. 
-  
-
 <br/>  
 
 
