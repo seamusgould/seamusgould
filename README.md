@@ -19,13 +19,8 @@ I am interested in everything related to mathematics and technology, from making
 <br/>  
 
 
-<!-- ## My Skill Set  
-<table><tr><td valign="top" width="100%">
-
-
- -->
 ### Skills  
-<div style="background-color:red align="center">  
+<div style="background-color:white align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75"/>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
