@@ -63,6 +63,16 @@ I am interested in everything related to mathematics and technology, from making
 
 <br/>  
 
+## What I am learning  
+# Youtube
+- 🔥 My favorite youtube channel has to be [Fireship.io]([https://www.google.com](https://www.youtube.com/c/Fireship]).  This channel covers everything from web development (both front end and back end), mobile development, machine learning, and isoteric computer science facts.
+- 💻 I also enjoy [Coding with Lewis]([https://www.youtube.com/c/CodingwithLewis]) who is recent, yet gaining traction as a content creator.
+- 📐 I also love mathematics, and nobody can match the content made by [3blue1brown]([(https://www.youtube.com/c/3blue1brown)]).
+
+# Academic Papers
+- Arxiv is a great resource, yet hard to keep up with.  For this reason I love [paperswithcode 📰]([(https://paperswithcode.com/)]) which shows me the papers that I really need to watch.
+- I check the trending github repos religiously.  Checkout my starred repos to see what I am looking at most!
+
 
 ## Connect with me  
 <div align="center">
