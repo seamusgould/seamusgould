@@ -1,4 +1,7 @@
-![grab-landing-page](https://github.com/seamusgould/seamusgould/blob/master/intro.gif?raw=true)  
+<div align="center">
+   <img src="![](https://github.com/seamusgould/seamusgould/blob/master/intro.gif?raw=true)" align="center" height="256" width="256" /> 
+</div>
+
 
 ## <div align="center">I am a recent graduate 🎓 from Vassar College 🏫.
 I am interested in everything related to mathematics and technology, from making an aesthetic front end, to constructing a robust back end.  I also love machine learning (ask me anything about nlp!) and mathematics (all levels).</div>
