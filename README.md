@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" align="center" height="256" width="256" />
+<img src="![]()" align="center" height="256" width="256" />
 </div>  
   
 
