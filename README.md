@@ -1,5 +1,5 @@
 <div align="center">
-<img src="![](https://github.com/seamusgould/seamusgould/blob/main/intro.gif?raw=true)" align="center" height="256" width="256" />
+<img src="![](https://github.com/seamusgould/seamusgould/blob/master/intro.gif?raw=true)" align="center" height="256" width="256" />
 </div>  
   
 
